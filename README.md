@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kazi Solayman</h1>
 <h3 align="center">A passionate front-end focused full-stack developer with extensive experiences in UI development.</h3>
 
-- 🌱 I’m currently learning **Python, Django, Solidity, React Native etc.**
+- 🌱 I’m currently learning **Python, Django, Solidity and React Native**
 
 - 💬 Ask me about **React, Vue, Gsap, Node, Express, MongoDB etc.**
 

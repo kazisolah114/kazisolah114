@@ -69,5 +69,3 @@ A pet health SaaS platform offering:
 - 🐶 Pet symptom checker (AI-powered)
 - 💊 Medication reminders & health tracking
 - 🛍️ E-commerce for pet essentials
-
-[🚀 Check it out](petvetpals.vercel.app)

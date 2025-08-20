@@ -58,14 +58,3 @@ Feel free to reach out if you want to:
 
 📧 kazisolayman123@gmail.com  
 🔗 [LinkedIn](https://linkedin.com/in/kazisolah114)
-
----
-
-## 📌 Side Projects
-
-### 🔬 PetVetPals  
-A pet health SaaS platform offering:
-
-- 🐶 Pet symptom checker (AI-powered)
-- 💊 Medication reminders & health tracking
-- 🛍️ E-commerce for pet essentials

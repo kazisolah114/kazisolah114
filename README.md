@@ -1,6 +1,6 @@
 <h1 align="center">Kazi Solayman</h1>
 <p align="center">
-  Frontend-Focused Full-Stack Developer | Steady Learner
+  Frontend-Focused Full-Stack Developer
 </p>
 
 <p align="center">
@@ -12,7 +12,7 @@
 
 ## 👨‍💻 About Me
 
-Kazi's here — an innovative frontend-focused full-stack developer who thrives at the intersection of clean UI and solid backend architecture. My journey started with building delightful web interfaces, and has since evolved into creating complete, scalable products from idea to deployment.
+Kazi's here — frontend-focused full-stack developer who thrives at the intersection of clean UI and solid backend architecture. My journey started with building delightful web interfaces, and has since evolved into creating complete, scalable products from idea to deployment.
 
 - 🌍 Based in Monroe, Louisiana, USA
 - 🔧 Hands-on experience with **JavaScript**, **TypeScript**, **React**, **Next.js**, **Tailwind CSS**, **Node.js**, **Express.js**, **Redux**, **Jest/Cypress**, **MongoDB**, **PostgreSQL**, **Docker**, **AWS** and you name it

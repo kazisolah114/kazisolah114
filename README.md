@@ -1,9 +1,9 @@
-<h1 align="center">Kazi Solayman</h1>
-<p align="center">
-  FrontEnd-Focused Full-Stack Developer
+<h1>Kazi Solayman</h1>
+<p>
+  Front-End Focused Full-Stack Developer
 </p>
 
-<p align="center">
+<p>
   <a href="mailto:kazisolayman123@gmail.com">📩 Email</a> |
   <a href="https://linkedin.com/in/kazisolah114" target="_blank">💼 LinkedIn</a>
 </p>
@@ -12,11 +12,12 @@
 
 ## 👨‍💻 About Me
 
-Hi, my name is Kazi Solayman, and I'm a frontend-focused full-stack developer who thrives at the intersection of clean UI and solid backend architecture. My journey started with building delightful web interfaces, and has since evolved into creating complete, scalable products from idea to deployment.
+Hi, I’m **Kazi Solayman**, a **front-end focused full-stack developer** who thrives at the intersection of beautiful design and robust backend architecture.  
+I’m passionate about crafting applications that not only look clean but also perform flawlessly under the hood. My journey started with building interactive user interfaces, and has evolved into developing complete, production-ready web products that are fast, scalable, and maintainable.
 
-- 🌍 Based in Louisiana, USA
-- 🔧 Hands-on experience with **JavaScript**, **TypeScript**, **React**, **Next.js**, **Tailwind CSS**, **Node.js**, **Express.js**, **Redux/Zustand**, **Jest/Cypress**, **MongoDB**, **PostgreSQL**, **Docker**, **AWS**, **Web3.js/Ethers.js** and client desires.
-- 💡 Everyday learning and experimenting with new technologies to enrich skills in building innovative web-apps
+- 💻 Hands-on experience with **JavaScript**, **TypeScript**, **React**, **Next.js**, **Tailwind CSS**, **Node.js**, **Express.js**, **Redux/Zustand**, **Jest/Cypress**, **MongoDB**, **PostgreSQL**, **Docker**, **AWS**, and **Web3.js/Ethers.js**.  
+- ⚙️ I enjoy transforming complex ideas into smooth digital experiences, combining modern frontend performance with efficient backend systems.  
+- 💡 Always exploring new technologies, refining workflows, and pushing boundaries to build innovative, real-world solutions that make a lasting impact.  
 
 ---
 
@@ -39,12 +40,12 @@ Hi, my name is Kazi Solayman, and I'm a frontend-focused full-stack developer wh
 
 ## 💬 Let's Talk
 
-Feel free to reach out:
+Feel free to reach out if you’re looking for someone to:
 
-- Collaborate on a project
-- Discuss full-stack development
-- Build SaaS products together
-- Get help with frontend performance, UX/UI, or dev workflows
+- Join your engineering team and help build modern web applications  
+- Contribute to UI/UX-driven product development  
+- Collaborate on SaaS, AI, or platform-based projects  
+- Discuss development best practices or innovative frontend solutions  
 
-📧 kazisolayman123@gmail.com  
-🔗 [LinkedIn](https://linkedin.com/in/kazisolah114)
+📩 **[Email Me](mailto:kazisolayman123@gmail.com)** | 💼 **[LinkedIn](https://linkedin.com/in/kazisolah114)**
+

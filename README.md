@@ -1,9 +1,7 @@
 ## 👨‍💻 About Me
 
 My name is **Kazi Solayman**, and I'm a **frontend focused full-stack developer based in Louisiana, USA.** I'm proficient in modern frontend architecture and robust backend solutions. I'm passionate about crafting applications that not only look clean but also perform flawlessly under the hood. My journey started with building interactive user interfaces, and has evolved into developing complete, production-ready digital solutions that are fast, scalable, and maintainable. With a strong focus on performance optimization, scalable design systems, clean and reusable code, I hold a farm foundation in full-stack development.
-
-- 💻 Hands-on experience with but not limited to **JavaScript**, **TypeScript**, **React**, **Next.js**, **Redux/Zustand**, **Tailwind CSS**, **Node.js**, **Express.js**, **GraphQL**, **Jest/RTL**, **MongoDB**, **PostgreSQL**, **Docker**, **AWS**, **CI/CD**, **Web3.js/Ethers.js**.  
-- 💡 Currently I'm diving deeper into Python, Django, DSA, cloud-native DevOps, system design, distributed systems, and backend architecture to grow into a next-gen full-stack engineer who can design, build, and scale real-world intelligent products.
+With a strong foundation in **JavaScript**, **TypeScript**, **React**, **Next.js**, **Redux/Zustand**, **Tailwind CSS**, **Node.js**, **Express.js**, **RESTful/GraphQL**, **Jest/RTL**, **MongoDB**, **PostgreSQL**, **Docker**, **AWS**, **CI/CD**, **Web3.js/Ethers.js**, I'm always learning and growing myself.
 
 ---
 
